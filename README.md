@@ -29,4 +29,4 @@
 ---
 
 ### :zap: GitHub Stats:
-<img alt="beeget's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img alt="beeget's GitHub Stats" src="https://github-readme-stats-1rysjipi1-beeget.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
