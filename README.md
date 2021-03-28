@@ -3,7 +3,7 @@
 ## I'm a Student, Developer
 
 - 🔭 I'm currently working on a private project!
-- 🌱 I’m currently learning Vue.js
+- 🌱 I'm currently learning Vue.js
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing video games
 
@@ -30,9 +30,5 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img alt="beeget's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
-</details>
+<summary>:zap: GitHub Stats</summary>
+<img alt="beeget's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
