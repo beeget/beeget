@@ -29,5 +29,5 @@
 ---
 
 ### :zap: GitHub Stats:
-<img align="left" alt="beeget's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 <img align="left" alt="beeget's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api/top-langs?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img align="left" alt="beeget's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api?username=beeget&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
