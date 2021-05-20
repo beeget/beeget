@@ -2,10 +2,7 @@
 
 ## I'm a Student, Developer
 
-- 🔭 I'm currently working on a private project!
-- 🌱 I'm currently learning Vue.js
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing video games
+- 🛠 I'm currently working on a private project!
 
 ### Languages and Tools:
 
